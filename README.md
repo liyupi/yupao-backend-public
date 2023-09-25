@@ -2,9 +2,9 @@
 
 > 作者：[程序员鱼皮](https://github.com/liyupi)
 
-本项目为 [编程导航知识星球](https://yupi.icu) 的原创全栈项目，后端代码开源。
+本项目为 [编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的原创全栈项目，后端代码开源。
 
-[加入星球](https://yupi.icu) 可获得该项目从 0 到 1 的完整视频教程 + 源码 + 笔记 + 答疑 + 简历写法。
+[加入星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 可获得该项目从 0 到 1 的完整视频教程 + 源码 + 笔记 + 答疑 + 简历写法 + 面试题解。
 
 ![加入编程导航](./doc/加入编程导航.jpeg)
 
@@ -12,7 +12,7 @@
 
 ## 项目简介
 
-[编程导航知识星球](https://yupi.icu) 原创项目，一个帮助大家找到志同道合的伙伴的移动端网站（APP 风格）。包括用户登录注册、更新个人信息、按标签搜索用户、推荐相似用户、组队等功能。
+[编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 原创项目，一个帮助大家找到志同道合的伙伴的移动端网站（APP 风格）。包括用户登录注册、更新个人信息、按标签搜索用户、推荐相似用户、组队等功能。
 
 主页：
 
