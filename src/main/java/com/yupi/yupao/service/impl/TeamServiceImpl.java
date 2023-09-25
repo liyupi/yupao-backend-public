@@ -267,7 +267,7 @@ public class TeamServiceImpl extends ServiceImpl<TeamMapper, Team>
                     QueryWrapper<UserTeam> userTeamQueryWrapper = new QueryWrapper<>();
                     userTeamQueryWrapper.eq("userId", userId);
                     long hasJoinNum = userTeamService.count(userTeamQueryWrapper);
-                    if (hasJoinNum > 5) {
+                    if (hasJoinNum >= 5) {
                         throw new BusinessException(ErrorCode.PARAMS_ERROR, "最多创建和加入 5 个队伍");
                     }
                     // 不能重复加入已加入的队伍
